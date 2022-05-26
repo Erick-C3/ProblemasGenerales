@@ -7,6 +7,6 @@
 
 - Finalmente si no tienen más que hacer pueden avanzar con los ejercicios generales! 👍
 
-Tienen que hacer un fork en github a este repositorio y luego lo clonan en su equipo para comenzar a trabajar! 
+> Tienen que hacer un fork en github a este repositorio y luego lo clonan en su equipo para comenzar a trabajar! 
 
 [Ejercicios generales](https://erick-c3.github.io/ProblemasGenerales/)
